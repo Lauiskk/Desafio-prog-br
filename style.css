@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.top-bar {
+  display: flex;
+  background-color: rgb(44, 44, 44);
+  height: 50px;
+  border-bottom: 5px solid orange;
+  align-items: center;
+  justify-content: center;
+}
+.top-bar__text {
+  font-size: 24px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
