@@ -21,11 +21,13 @@
 }
 
 header {
-  display: flex;
+  display: grid;
   justify-content: center;
+  width: 50%;
   align-items: center;
-  height: 50px;
-  padding: 75px 700px;
-  width: 500px;
-  font-weight: 600 bold;
+  padding: 3% 25%;
+}
+
+header,
+p {
 }
