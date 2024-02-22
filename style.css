@@ -30,4 +30,6 @@ header {
 
 header,
 p {
+  justify-content: center;
+  display: flex;
 }
