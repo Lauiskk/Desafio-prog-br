@@ -81,6 +81,7 @@ p {
 figure {
   padding: 0;
   margin: 40px 0;
+  font-size: 12px;
 }
 
 figure > img {
