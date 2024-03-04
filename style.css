@@ -11,6 +11,7 @@
   border-bottom: 5px solid orange;
   align-items: center;
   justify-content: center;
+  font-weight: bold;
 }
 .top-bar__text {
   font-size: 24px;
@@ -18,18 +19,4 @@
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-header {
-  display: grid;
-  justify-content: center;
-  width: 50%;
-  align-items: center;
-  padding: 3% 25%;
-}
-
-.header-paragraph {
-  justify-content: center;
-  display: flex;
-  padding: 20% 0;
 }
